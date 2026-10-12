@@ -1,0 +1,6 @@
+{
+  "name": "Apple Hack — Prediction Utility",
+  "description": "1xMega: Premium Crash prediction utility for 1xBet, Melbet, and SpinBetter. Official Telegram Channel: https://t.me/onexmega_official",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
